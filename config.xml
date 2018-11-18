@@ -10,4 +10,5 @@
     <content src="index.html" />
     <access origin="*" />
     <engine name="android" spec="~7.1.2" />
+	<gap:plugin name="org.apache.cordova.inappbrowser" version="3.0.0" />
 </widget>
