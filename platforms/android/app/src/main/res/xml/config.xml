@@ -12,5 +12,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <gap:plugin name="org.apache.cordova.inappbrowser" version="3.0.0" />
     <preference name="loglevel" value="DEBUG" />
 </widget>
