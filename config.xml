@@ -11,6 +11,7 @@
     <access origin="*" />
     <engine name="android" spec="~7.1.2" />
 <plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
+<access origin="http://www.kucukmenderes.com.tr" />
 
 
 </widget>
