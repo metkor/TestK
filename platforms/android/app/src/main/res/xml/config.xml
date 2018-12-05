@@ -12,7 +12,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" version="3.0.0" />
-    <access origin="www.kucukmenderes.com.tr" />
+    <access origin="http://www.kucukmenderes.com.tr" />
     <preference name="loglevel" value="DEBUG" />
 </widget>
